@@ -1,3 +1,7 @@
 .gray-text {
   color: rgb(170, 170, 170);
 }
+
+#prepend, #message{
+  font-size:20px;
+}
